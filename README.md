@@ -41,3 +41,6 @@
   
  ### 效果图
  ![白山羊备忘录](https://raw.githubusercontent.com/WGinit/Assets/master/images/memo/1.jpg "白山羊备忘录") ![白山羊备忘录](https://raw.githubusercontent.com/WGinit/Assets/master/images/memo/2.jpg "白山羊备忘录") ![白山羊备忘录](https://raw.githubusercontent.com/WGinit/Assets/master/images/memo/4.jpg "白山羊备忘录") ![白山羊备忘录](https://raw.githubusercontent.com/WGinit/Assets/master/images/memo/7.jpg "白山羊备忘录")
+
+### 传送门
+ 详情介绍： [白山羊博客: 撸一个备忘录小程序](http://lihua1108.com/archives/555)
