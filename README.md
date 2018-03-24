@@ -44,3 +44,6 @@
 
 ### 传送门
  详情介绍： [白山羊博客: 撸一个备忘录小程序](https://wginit.github.io/2018/01/26/%E7%99%BD%E5%B1%B1%E7%BE%8A%E5%A4%87%E5%BF%98%E5%BD%95/)
+ 
+ ### 菊花码体验
+ ![小程序码](https://raw.githubusercontent.com/WGinit/Assets/master/program/video/memo.jpg)
